@@ -1,6 +1,8 @@
 body{
-    background-color: rgba(143, 160, 45, 0.493);
+    background-color: #8fa02d7e;
     box-shadow: aquamarine;
+    margin-left: 20%;
+	margin-right: 20%;
 }
 p1{
     color: black
